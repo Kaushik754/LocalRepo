@@ -24,3 +24,6 @@ p span {
     color: crimson;
     text-decoration: underline;
 }
+p:nth-child(3) {
+    color: #00f;
+}
