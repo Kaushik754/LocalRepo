@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poopins', sans-serif;
+}
+h1 {
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3em;
+    background: linear-gradient(#f00, yellowgreen, crimson, blue);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+p {
+    text-align: center;
+    font-weight: 300;
+    font-size: 1.4em;
+}
+p span {
+    font-weight: 700;
+    color: crimson;
+    text-decoration: underline;
+}
